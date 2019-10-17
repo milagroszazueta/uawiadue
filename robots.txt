@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aithuthie.guite.de/sitemap.xml
